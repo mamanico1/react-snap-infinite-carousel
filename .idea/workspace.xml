@@ -7,6 +7,63 @@
     <list default="true" id="5362e26b-dbb4-4a6e-9807-ec9c34e73a54" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../AdikaProductOpt/.idea/AdikaProductOpt.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CRO/.idea/CRO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/krayon-assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/krayon-exchange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/krayon-trade-form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/src/lib/helpers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-exchange/src/store/store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/.idea/krayon-trade-form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/assets/close-x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/assets/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/assets/swap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/constants.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/exchange-form/exchange-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/exchange-form/token-select.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/exchange-form/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/exchange-form/useExchangeForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/exchange-form/useUpdateWallet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/exchange-form/utils.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/exchange-form/wallet-select.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/global.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/components/user-dashboard/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/contexts/exchange-context.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/lib/registry.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../krayon-trade-form/src/reducers/exchangeReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/.idea/nba-players-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/components/color-picker/color-picker.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/components/color-picker/use-color-picker.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/features/players/context/player-context.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/features/players/context/reducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/features/players/context/use-players-api.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/features/players/dashboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/features/players/favorites-list.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/features/players/player-search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/features/players/players-list.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/pages/landing.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/styles/globalStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/webapi/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/src/webapi/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/texh-spec.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/.idea/npm-packages.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/components/snap-infinite-carousel/animate.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/components/snap-infinite-carousel/dots.tsx" afterDir="false" />
@@ -18,10 +75,10 @@
       <change afterPath="$PROJECT_DIR$/../npm-packages/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/public/desktop.jpeg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/public/mobile.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsup.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-word-typing-animation/.idea/react-word-typing-animation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-word-typing-animation/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,25 +96,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/Users/Gil/FrontProjects/react-snap-infinite-carousel",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/Gil/FrontProjects/react-snap-infinite-carousel/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Gil/FrontProjects/react-snap-infinite-carousel&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/Gil/FrontProjects/react-snap-infinite-carousel/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -74,6 +131,8 @@
       <updated>1693319735828</updated>
       <workItem from="1693319736953" duration="799000" />
       <workItem from="1693474230426" duration="3428000" />
+      <workItem from="1694021034491" duration="752000" />
+      <workItem from="1694426565154" duration="926000" />
     </task>
     <servers />
   </component>
