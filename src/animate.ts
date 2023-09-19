@@ -1,4 +1,4 @@
-import { EasingFunction } from '@/components/snap-infinite-carousel/use-carousel';
+import { EasingFunction } from './use-carousel';
 
 interface scrollProps {
   element: any;

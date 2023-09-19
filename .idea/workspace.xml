@@ -86,8 +86,8 @@
       <change afterPath="$PROJECT_DIR$/../react-word-typing-animation/.idea/react-word-typing-animation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-word-typing-animation/src/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/animate.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +145,8 @@
       <workItem from="1693474230426" duration="3428000" />
       <workItem from="1694021034491" duration="752000" />
       <workItem from="1694426565154" duration="1672000" />
-      <workItem from="1695123494551" duration="401000" />
+      <workItem from="1695123494551" duration="935000" />
+      <workItem from="1695124733337" duration="116000" />
     </task>
     <servers />
   </component>
