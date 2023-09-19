@@ -7,6 +7,14 @@
     <list default="true" id="5362e26b-dbb4-4a6e-9807-ec9c34e73a54" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../AdikaProductOpt/.idea/AdikaProductOpt.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CRO/.idea/CRO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beti-task/src/api/apiConfig.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beti-task/src/components/Books/Books.ctrl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beti-task/src/components/Books/Books.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beti-task/src/components/Books/Books.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beti-task/src/components/book/Book.ctrl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beti-task/src/components/book/Book.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beti-task/src/components/book/Book.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beti-task/src/pages/books-page.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../krayon-assignment/.idea/krayon-assignment.iml" afterDir="false" />
@@ -63,7 +71,7 @@
       <change afterPath="$PROJECT_DIR$/../nba-players-task/src/styles/globalStyles.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nba-players-task/src/webapi/routes.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nba-players-task/src/webapi/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nba-players-task/texh-spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nba-players-task/tech-spec.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/.idea/npm-packages.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/components/snap-infinite-carousel/animate.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/components/snap-infinite-carousel/dots.tsx" afterDir="false" />
@@ -75,10 +83,11 @@
       <change afterPath="$PROJECT_DIR$/../npm-packages/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/public/desktop.jpeg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../npm-packages/public/mobile.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-word-typing-animation/.idea/react-word-typing-animation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-word-typing-animation/src/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +96,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Uf9ORsnLLS3LcTGZakkiPQEksD" />
   <component name="ProjectLevelVcsManager">
@@ -132,7 +144,8 @@
       <workItem from="1693319736953" duration="799000" />
       <workItem from="1693474230426" duration="3428000" />
       <workItem from="1694021034491" duration="752000" />
-      <workItem from="1694426565154" duration="926000" />
+      <workItem from="1694426565154" duration="1672000" />
+      <workItem from="1695123494551" duration="401000" />
     </task>
     <servers />
   </component>

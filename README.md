@@ -2,7 +2,7 @@
 Smooth infinite carousel with css-scroll-snap - implemented with custom animation function
 
 ## Example
-![ezgif com-optimize](https://github.com/mamanico1/react-snap-infinite-carousel/assets/24621016/85a45e0f-430b-4d8d-b2c3-ded0f66ec6ac)
+![](https://s11.gifyu.com/images/S4Wxl.gif)
 
 ## Install
 
